@@ -1,0 +1,12 @@
+# Project exclude paths
+/browser/target/
+/browser/target/scala-3.1.2/classes/
+/common/.js/target/
+/common/.js/target/scala-3.1.2/classes/
+/common/.jvm/target/
+/common/.jvm/target/scala-3.1.2/classes/
+/project/project/target/
+/project/target/
+/server/target/
+/server/target/scala-3.1.2/classes/
+/target/
